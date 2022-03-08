@@ -28,7 +28,10 @@ import p0gimg3 from "../images/testimg.jpg"
 
 
 //Page 5
-
+import p5himg from "../images/Prudential/PrudentialHeader.jpg"
+import p5gimg1 from "../images/Prudential/PrudentialGallery1.jpeg"
+import p5gimg2 from "../images/Prudential/PrudentialGallery2.jpeg"
+import p5gimg3 from "../images/Prudential/PrudentialGallery3.jpeg"
 
 //Page 6
 import p6himg from "../images/Park/ParkHeader.jpg"
@@ -92,13 +95,13 @@ const Template = (props) => {
       gimg2 = p4gimg2;
       gimg3 = p4gimg3;
       break;
+    */
     case 5:
       himg = p5himg;
       gimg1 = p5gimg1;
       gimg2 = p5gimg2;
       gimg3 = p5gimg3;
       break;
-    */
     case 6:
       himg = p6himg;
       gimg1 = p6gimg1;
