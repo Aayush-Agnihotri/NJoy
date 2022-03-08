@@ -1,7 +1,7 @@
 import React from 'react'
 import Template from "./Template"
 
-const Test = () => {
+const Liberty = () => {
   return (
     <>
         <Template name={"Liberty Science Center"} 
@@ -26,5 +26,5 @@ const Test = () => {
   )
 }
 
-export default SixFlags
+export default Liberty
 
