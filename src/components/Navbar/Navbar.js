@@ -14,7 +14,6 @@ function Navbar() {
 
   const closeMobileMenu = () => {
     setClick(false);
-    window.location.reload();
   }
 
   let navigate = useNavigate(); 
