@@ -46,7 +46,7 @@ function Navbar() {
   return (
     <>
       <nav className='navbar'>
-
+      <img src={require('../../images/logo.png')} style={{ height: "80%" }} />
         <Link to='/' className='navbar-logo' onClick={closeMobileMenu} style={{fontSize: "1.5rem"}} >NJoy</Link>
         
         <SearchBar />
