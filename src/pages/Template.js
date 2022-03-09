@@ -17,9 +17,9 @@ import p0gimg3 from "../images/testimg.jpg"
 
 //Page 1
 import p1himg from "../images/Seaside/SeasideHeader.jpg"
-import p1gimg1 from "../images/Seaside/SeasideGallery1.jpg"
-import p1gimg2 from "../images/Seaside/SeasideGallery2.jpg"
-import p1gimg3 from "../images/Seaside/SeasideGallery3.jpg"
+import p1gimg1 from "../images/Seaside/SeasideGallery1.jpeg"
+import p1gimg2 from "../images/Seaside/SeasideGallery2.jpeg"
+import p1gimg3 from "../images/Seaside/SeasideGallery3.jpeg"
 
 //Page 2
 // import p2img from "../images/Six/SixHeader.jpg"
@@ -31,13 +31,13 @@ import p1gimg3 from "../images/Seaside/SeasideGallery3.jpg"
 import p3himg from "../images/Atlantic/AtlanticHeader.jpg"
 import p3gimg1 from "../images/Atlantic/AtlanticGallery1.jpg"
 import p3gimg2 from "../images/Atlantic/AtlanticGallery2.jpg"
-import p3gimg3 from "../images/Atlantic/AtlanticGallery3.jpg"
+import p3gimg3 from "../images/Atlantic/AtlanticGallery3.jfif"
 
 //Page 4
-import p4himg from "../images/Pnc/PncHeader.jpg"
-import p4gimg1 from "../images/Pnc/PncGallery1.jpg"
-import p4gimg2 from "../images/Pnc/PncGallery2.jpg"
-import p4gimg3 from "../images/Pnc/PncGallery3.jpg"
+import p4himg from "../images/PNC/PncHeader.jpeg"
+import p4gimg1 from "../images/PNC/PncGallery1.jpeg"
+import p4gimg2 from "../images/PNC/PncGallery2.jpeg"
+import p4gimg3 from "../images/PNC/PncGallery3.jpeg"
 
 //Page 5
 import p5himg from "../images/Prudential/PrudentialHeader.jpg"
@@ -60,14 +60,14 @@ import p7gimg3 from "../images/Liberty/LibertyGallery3.jpg"
 
 //Page 8
 import p8himg from "../images/Gardens/GardensHeader.jpg"
-import p8gimg1 from "../images/Gardens/GardensGallery1.jpg"
+import p8gimg1 from "../images/Gardens/GardensGallery1.png"
 import p8gimg2 from "../images/Gardens/GardensGallery2.jpg"
 import p8gimg3 from "../images/Gardens/GardensGallery3.jpg"
 
 //Page 9
 import p9himg from "../images/Mall/MallHeader.jpg"
 import p9gimg1 from "../images/Mall/MallGallery1.jpg"
-import p9gimg2 from "../images/Mall/MallGallery2.jpg"
+import p9gimg2 from "../images/Mall/MallGallery2.png"
 //import p9gimg3 from "../images/Mall/MallGallery3.jpg"
 
 //Page 10
