@@ -12,7 +12,10 @@ function Navbar() {
   const [click, setClick] = useState(false);
   const [dropdown, setDropdown] = useState(false);
 
-  const closeMobileMenu = () => setClick(false);
+  const closeMobileMenu = () => {
+    setClick(false);
+    window.location.reload();
+  }
 
   let navigate = useNavigate(); 
   const routeChange = () =>{ 
