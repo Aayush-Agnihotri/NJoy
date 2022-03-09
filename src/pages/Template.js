@@ -68,7 +68,7 @@ import p8gimg3 from "../images/Gardens/GardensGallery3.jpg"
 import p9himg from "../images/Mall/MallHeader.jpg"
 import p9gimg1 from "../images/Mall/MallGallery1.jpg"
 import p9gimg2 from "../images/Mall/MallGallery2.png"
-//import p9gimg3 from "../images/Mall/MallGallery3.jpg"
+import p9gimg3 from "../images/Mall/MallGallery3.jpg"
 
 //Page 10
 // import p10himg from "../images/Princeton/PrincetonHeader.jpg"
@@ -148,7 +148,7 @@ const Template = (props) => {
       himg = p9himg;
       gimg1 = p9gimg1;
       gimg2 = p9gimg2;
-      //gimg3 = p9gimg3;
+      gimg3 = p9gimg3;
       break;
     // case 10:
     //   himg = p10himg;
