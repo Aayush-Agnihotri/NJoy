@@ -22,10 +22,10 @@ import p1gimg2 from "../images/Seaside/SeasideGallery2.jpeg"
 import p1gimg3 from "../images/Seaside/SeasideGallery3.jpeg"
 
 //Page 2
-// import p2img from "../images/Six/SixHeader.jpg"
-// import p2gimg1 from "../images/Six/SixGallery1.jpg"
-// import p2gimg2 from "../images/Six/SixGallery2.jpg"
-// import p2gimg3 from "../images/Six/SixGallery3.jpg"
+import p2himg from "../images/Six/SixHeader.jpg"
+import p2gimg1 from "../images/Six/SixGallery1.jpg"
+import p2gimg2 from "../images/Six/SixGallery2.jpeg"
+import p2gimg3 from "../images/Six/SixGallery3.jpeg"
 
 //Page 3
 import p3himg from "../images/Atlantic/AtlanticHeader.jpg"
@@ -71,10 +71,10 @@ import p9gimg2 from "../images/Mall/MallGallery2.png"
 import p9gimg3 from "../images/Mall/MallGallery3.jpg"
 
 //Page 10
-// import p10himg from "../images/Princeton/PrincetonHeader.jpg"
-// import p10gimg1 from "../images/Princeton/PrincetonGallery1.jpg"
-// import p10gimg2 from "../images/Princeton/PrincetonGallery2.jpg"
-// import p10gimg3 from "../images/Princeton/PrincetonGallery3.jpg"
+import p10himg from "../images/Princeton/PrincetonHeader.jpeg"
+import p10gimg1 from "../images/Princeton/PrincetonGallery1.jpeg"
+import p10gimg2 from "../images/Princeton/PrincetonGallery2.jpeg"
+import p10gimg3 from "../images/Princeton/PrincetonGallery3.jpg"
 
 
 const Template = (props) => {
@@ -100,14 +100,12 @@ const Template = (props) => {
       gimg2 = p1gimg2;
       gimg3 = p1gimg3;
       break;
-    /*
     case 2:
       himg = p2himg;
       gimg1 = p2gimg1;
       gimg2 = p2gimg2;
       gimg3 = p2gimg3;
       break;
-    */
     case 3:
       himg = p3himg;
       gimg1 = p3gimg1;
@@ -150,12 +148,12 @@ const Template = (props) => {
       gimg2 = p9gimg2;
       gimg3 = p9gimg3;
       break;
-    // case 10:
-    //   himg = p10himg;
-    //   gimg1 = p10gimg1;
-    //   gimg2 = p10gimg2;
-    //   gimg3 = p10gimg3;
-    //   break;
+    case 10:
+      himg = p10himg;
+      gimg1 = p10gimg1;
+      gimg2 = p10gimg2;
+      gimg3 = p10gimg3;
+      break;
     }
 
   return (
