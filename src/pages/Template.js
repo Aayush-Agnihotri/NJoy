@@ -16,16 +16,28 @@ import p0gimg2 from "../images/testimg.jpg"
 import p0gimg3 from "../images/testimg.jpg"
 
 //Page 1
-
+import p1himg from "../images/Seaside/SeasideHeader.jpg"
+import p1gimg1 from "../images/Seaside/SeasideGallery1.jpg"
+import p1gimg2 from "../images/Seaside/SeasideGallery2.jpg"
+import p1gimg3 from "../images/Seaside/SeasideGallery3.jpg"
 
 //Page 2
-
+// import p2img from "../images/Six/SixHeader.jpg"
+// import p2gimg1 from "../images/Six/SixGallery1.jpg"
+// import p2gimg2 from "../images/Six/SixGallery2.jpg"
+// import p2gimg3 from "../images/Six/SixGallery3.jpg"
 
 //Page 3
-
+import p3himg from "../images/Atlantic/AtlanticHeader.jpg"
+import p3gimg1 from "../images/Atlantic/AtlanticGallery1.jpg"
+import p3gimg2 from "../images/Atlantic/AtlanticGallery2.jpg"
+import p3gimg3 from "../images/Atlantic/AtlanticGallery3.jpg"
 
 //Page 4
-
+import p4himg from "../images/Pnc/PncHeader.jpg"
+import p4gimg1 from "../images/Pnc/PncGallery1.jpg"
+import p4gimg2 from "../images/Pnc/PncGallery2.jpg"
+import p4gimg3 from "../images/Pnc/PncGallery3.jpg"
 
 //Page 5
 import p5himg from "../images/Prudential/PrudentialHeader.jpg"
@@ -41,16 +53,28 @@ import p6gimg3 from "../images/Park/ParkGallery3.jpg"
 
 
 //Page 7
-
+import p7himg from "../images/Liberty/LibertyHeader.jpg"
+import p7gimg1 from "../images/Liberty/LibertyGallery1.jpg"
+import p7gimg2 from "../images/Liberty/LibertyGallery2.jpg"
+import p7gimg3 from "../images/Liberty/LibertyGallery3.jpg"
 
 //Page 8
-
+import p8himg from "../images/Gardens/GardensHeader.jpg"
+import p8gimg1 from "../images/Gardens/GardensGallery1.jpg"
+import p8gimg2 from "../images/Gardens/GardensGallery2.jpg"
+import p8gimg3 from "../images/Gardens/GardensGallery3.jpg"
 
 //Page 9
-
+import p9himg from "../images/Mall/MallHeader.jpg"
+import p9gimg1 from "../images/Mall/MallGallery1.jpg"
+import p9gimg2 from "../images/Mall/MallGallery2.jpg"
+//import p9gimg3 from "../images/Mall/MallGallery3.jpg"
 
 //Page 10
-
+// import p10himg from "../images/Princeton/PrincetonHeader.jpg"
+// import p10gimg1 from "../images/Princeton/PrincetonGallery1.jpg"
+// import p10gimg2 from "../images/Princeton/PrincetonGallery2.jpg"
+// import p10gimg3 from "../images/Princeton/PrincetonGallery3.jpg"
 
 
 const Template = (props) => {
@@ -70,19 +94,20 @@ const Template = (props) => {
       gimg2 = p0gimg2;
       gimg3 = p0gimg3;
       break;
-    /*
     case 1:
       himg = p1himg;
       gimg1 = p1gimg1;
       gimg2 = p1gimg2;
       gimg3 = p1gimg3;
       break;
+    /*
     case 2:
       himg = p2himg;
       gimg1 = p2gimg1;
       gimg2 = p2gimg2;
       gimg3 = p2gimg3;
       break;
+    */
     case 3:
       himg = p3himg;
       gimg1 = p3gimg1;
@@ -95,7 +120,6 @@ const Template = (props) => {
       gimg2 = p4gimg2;
       gimg3 = p4gimg3;
       break;
-    */
     case 5:
       himg = p5himg;
       gimg1 = p5gimg1;
@@ -108,7 +132,6 @@ const Template = (props) => {
       gimg2 = p6gimg2;
       gimg3 = p6gimg3;
       break;
-    /*
     case 7:
       himg = p7himg;
       gimg1 = p7gimg1;
@@ -125,16 +148,15 @@ const Template = (props) => {
       himg = p9himg;
       gimg1 = p9gimg1;
       gimg2 = p9gimg2;
-      gimg3 = p9gimg3;
+      //gimg3 = p9gimg3;
       break;
-    case 10:
-      himg = p10himg;
-      gimg1 = p10gimg1;
-      gimg2 = p10gimg2;
-      gimg3 = p10gimg3;
-      break;
-    */
-  }
+    // case 10:
+    //   himg = p10himg;
+    //   gimg1 = p10gimg1;
+    //   gimg2 = p10gimg2;
+    //   gimg3 = p10gimg3;
+    //   break;
+    }
 
   return (
     <div className="overall">
