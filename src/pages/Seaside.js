@@ -16,7 +16,7 @@ const Seaside = () => {
         faq1q={"When are the rides operating?"}
         faq1a={"FAQ #1 answer"}
         faq2q={"How much does it cost to get on the beach?"}
-        faq2a={"FAQ #2 answer"}
+        faq2a={"It is $8 for an adult."}
         faq3q={"Is anything open year-round?"}
         faq3a={"FAQ #3 answer"}
         h1={"Casino Pier"}
