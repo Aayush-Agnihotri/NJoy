@@ -14,18 +14,18 @@ const Seaside = () => {
         hours={"Open 24 Hours Sun-Sat"}
         website={"https://exit82.com/ boardwalk/"}
         faq1q={"When are the rides operating?"}
-        faq1a={"FAQ #1 answer"}
+        faq1a={"Casino Pier typically closes after Labor Day and reopens Memorial Day Weekend."}
         faq2q={"How much does it cost to get on the beach?"}
-        faq2a={"FAQ #2 answer"}
+        faq2a={"It is $8 for an adult."}
         faq3q={"Is anything open year-round?"}
-        faq3a={"FAQ #3 answer"}
+        faq3a={"The Beachcomber Bar and Restaurant, Spicy Lounge and Fast Food Area, Sawmill Cafe Bar and Restaurant, George's Pizza, Maruca's Tomato Pie, Lucky Leo's Arcade, and Coin Castle Arcade are open year-round."}
         h1={"Casino Pier"}
         h2={"The Jersey Shore House"}
         h3={"Breakwater Beach Waterpark"}
-        about={"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
-        thingstoknow={"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
-        covid={"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
-        addInfo={"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."} />
+        about={"As one of the most popular tourist destinations in the summer, the Seaside Heights Boardwalk has something fun for the whole family. Starting in 1916, the boardwalk was built in stages and completed in 1921.  Now, kids can enjoy the many boardwalk rides, there are a number of great restaurants, and young adults will love the nightlife scene. The Seaside Heights Boardwalk is home to Casino Pier and Breakwater Beach, two great attractions for kids and families. Hours upon hours of fun can be had on this Ocean County boardwalk!"}
+        thingstoknow={"On the beach, alcoholic beverages are not permitted and coolers may be inspected upon entrance for such contraband. Additionally, pets of any kind (unless they act as a service or assistance dogs to a disabled individual) are not allowed on the beach or boardwalk. Once life guards are off-duty, swimming is prohibited, and all beach-goers must be off of the beach by 10 pm unless otherwise stated."}
+        covid={"Currently, there are no COVID-19 restrictions on the Boardwalk itself. However, it is advisable that guests bring a mask just in case an individual shop, restaurant, or facility requires it."}
+        addInfo={""} />
     </>
   )
 }
