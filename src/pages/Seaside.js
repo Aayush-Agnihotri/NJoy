@@ -25,7 +25,7 @@ const Seaside = () => {
         about={"As one of the most popular tourist destinations in the summer, the Seaside Heights Boardwalk has something fun for the whole family. Starting in 1916, the boardwalk was built in stages and completed in 1921.  Now, kids can enjoy the many boardwalk rides, there are a number of great restaurants, and young adults will love the nightlife scene. The Seaside Heights Boardwalk is home to Casino Pier and Breakwater Beach, two great attractions for kids and families. Hours upon hours of fun can be had on this Ocean County boardwalk!"}
         thingstoknow={"On the beach, alcoholic beverages are not permitted and coolers may be inspected upon entrance for such contraband. Additionally, pets of any kind (unless they act as a service or assistance dogs to a disabled individual) are not allowed on the beach or boardwalk. Once life guards are off-duty, swimming is prohibited, and all beach-goers must be off of the beach by 10 pm unless otherwise stated."}
         covid={"Currently, there are no COVID-19 restrictions on the Boardwalk itself. However, it is advisable that guests bring a mask just in case an individual shop, restaurant, or facility requires it."}
-        addInfo={""} />
+        addInfo={"Small size coolers are permitted on the beach. However, a beach attendant may inspect your cooler for glass bottles and alcoholic beverages-neither of which are permitted on the beach. Please visit the Visitor’s Center at Blaine Avenue to obtain a beach wheelchair. Showers are located at Webster Avenue on the Boardwalk."} />
     </>
   )
 }
