@@ -80,12 +80,6 @@ import p10gimg3 from "../images/Princeton/PrincetonGallery3.jpg"
 const Template = (props) => {
 
   const [isClick, setClick] = useState(false);
-  const [ count, setCount ] = useState(0);
-
-  // if (count === 0) {
-  //   window.location.reload();
-  //   setCount(() => count + 1);
-  // }
   
   let himg;
   let gimg1;
@@ -164,6 +158,15 @@ const Template = (props) => {
 
   return (
     <div className="overall">
+
+      <div id="myModal" class="modal">
+        <span class="close" onClick={() => {
+          var modal = document.getElementById("myModal");
+          modal.style.display = "none";
+        }} >&times;</span>
+        <img class="modal-content" id="img01" />
+      </div>
+
       <div className="container">
         <img src={himg} style={{width:"110%"}} />
         <div className="centered font-link">{props.name}</div>
@@ -247,17 +250,33 @@ const Template = (props) => {
             <div className="column2">
             <div className="card">
               <div className="container">
-                <img src={gimg1} />
+                <img id="img1" src={gimg1} onClick={() => {
+                    console.log("hello");
+                    var modal = document.getElementById("myModal");
+                    var modalImg = document.getElementById("img01");
+                    modal.style.display = "block";
+                    modalImg.src = gimg1;
+                  }} />
               </div>
             </div>
             <div className="card">
               <div className="container">
-                <img src={gimg2} />
+                <img id="img2" src={gimg2} onClick={() => {
+                  var modal = document.getElementById("myModal");       
+                  var modalImg = document.getElementById("img01");
+                  modal.style.display = "block";
+                  modalImg.src = gimg2;
+                }} />
               </div>
             </div>
             <div className="card">
               <div className="container">
-                <img src={gimg3} />
+                <img id="img3" src={gimg3} onClick={() => {
+                  var modal = document.getElementById("myModal");       
+                  var modalImg = document.getElementById("img01");
+                  modal.style.display = "block";
+                  modalImg.src = gimg3;
+                }} />
               </div>
             </div>
             </div>
