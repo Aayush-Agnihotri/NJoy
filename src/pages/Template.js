@@ -80,6 +80,12 @@ import p10gimg3 from "../images/Princeton/PrincetonGallery3.jpg"
 const Template = (props) => {
 
   const [isClick, setClick] = useState(false);
+  const [ count, setCount ] = useState(0);
+
+  // if (count === 0) {
+  //   window.location.reload();
+  //   setCount(() => count + 1);
+  // }
   
   let himg;
   let gimg1;
