@@ -12,25 +12,36 @@ const Atlantic = () => {
         mapLink={"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d197381.89253333746!2d-74.5925653778518!3d39.3767927338931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0dd576e5cc721%3A0x4a6fcb43e9675262!2sAtlantic%20City%2C%20NJ!5e0!3m2!1sen!2sus!4v1646341247927!5m2!1sen!2sus"} 
         pnumb={"1-888-AC-VISIT"} 
 
-        address={""} 
+        address={"1301 Bacharach Blvd, Atlantic City, NJ 08401"} 
 
-        hours={"Sun	10AM–5PM Mon 10AM–5PM Tues 10AM–5PM Wed 10AM–5PM Thurs 10AM–5PM Fri 10AM–12PM Sat 10AM–5PM"}
+        hours={"To check the hours, please visit this link (https://www.atlanticcitynj.com/explore/happyhours.aspx)."}
          website={"https://www.atlanticcitynj.com/"}
 
           faq1q={"When was the first casino built in Atlantic City?"}
           
            faq1a={"May 26, 1978"} 
+
            faq2q={"Why is Atlantic City so famous?"} 
+
            faq2a={"The city grew rapidly and offered lodging, dining, entertainment and amusements for all ages, tastes and incomes."} 
+
            faq3q={"Is Atlantic City like Las Vegas?"} 
+
            faq3a={"Las Vegas and Atlantic City are two major tourist destinations known for gambling and nightlife, yet they're 2,500 miles apart."} 
+
            h1={"Steel Pier"} 
+
            h2={"Atlantic City Aquarium"} 
+
            h3={"Ripley's Believe It or Not!"} 
-           about={"Atlantic City is a city close to the east coast of the Atlantic Ocean at New Jersey. It was founded during May 1, 1854. There are so many casinos in Atlantic City. This city is known for casinos, boardwalk, and beaches."} 
+
+           about={"Atlantic City is a city close to the east coast of the Atlantic Ocean at New Jersey. It was founded during May 1, 1854. It was incorpoarated by the portions of Egg Harbor Township and Galloway Township. There are so many casinos in Atlantic City. This city is located on Absecon Island and borders Absecon, Brigantine, Pleasantville, Ventor City, Egg Harbor Township, and the Atlantic Ocean. This city is known for casinos, boardwalk, and beaches. During 1921, Atlantic City has been the home of the Miss America pageant."} 
+
            thingstoknow={"1. The parking lots are expensive  2. Kids are not allowed to be at the casinos."} 
-           covid={"Atlantic City is taking a responsible approach to safety-protocols. Atlantic City resorts and businesses are now operating at 100% capacity and many restrictions have been lifted."} 
-           addInfo={"During September 2020, Tripadvisor named Atlantic City as one of the top 10 travel destinations in the USA."} 
+
+           covid={"Atlantic City is taking a responsible approach to safety-protocols. Atlantic City resorts and businesses are now operating at 100% capacity and many restrictions have been lifted. The use of masks are no longer required, but we encourage anyone who is not yet fully vaccinated to continue to wear a mask indoors or where you cannot social distance. For more information, please go this link (https://www.atlanticcitynj.com/media/travel-advisory/)."} 
+
+           addInfo={"During September 2020, Tripadvisor named Atlantic City as one of the top 10 travel destinations in the USA. Atlantic City inspired the U.S version of the bard game Monopoly."} 
            />
     </>
    )
