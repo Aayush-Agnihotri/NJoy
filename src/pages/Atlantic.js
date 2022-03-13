@@ -29,7 +29,7 @@ const Atlantic = () => {
            h3={"Ripley's Believe It or Not!"} 
            about={"Atlantic City is a city close to the east coast of the Atlantic Ocean at New Jersey. It was founded during May 1, 1854. There are so many casinos in Atlantic City. This city is known for casinos, boardwalk, and beaches."} 
            thingstoknow={"1. The parking lots are expensive  2. Kids are not allowed to be at the casinos."} 
-           covid={""} 
+           covid={"Atlantic City is taking a responsible approach to safety-protocols. Atlantic City resorts and businesses are now operating at 100% capacity and many restrictions have been lifted."} 
            addInfo={"During September 2020, Tripadvisor named Atlantic City as one of the top 10 travel destinations in the USA."} 
            />
     </>
