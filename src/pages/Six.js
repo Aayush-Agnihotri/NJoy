@@ -12,7 +12,7 @@ const Six = () => {
         pnumb={"(732) 928-2000"}
         address={"1 Six Flags Blvd, Jackson Township, NJ 08527"}
         hours={"Sun	11AM–9PM Mon 11AM–9PM Tues 11AM–9PM Wed 11AM–9PM Thurs 11AM–9PM Fri 11AM–10PM Sat 11AM–10PM"}
-        website={"https://www.sixflags.com/greatadventure"}
+        website={"https://www.six flags.com/great adventure"}
         faq1q={"What are the parking options?"}
         faq1a={"A one-day ticket or a season pass comes with a parking pass. To purchase a season pass or one-day ticket, visit six flag's website."}
         faq2q={"Are pets allowed in the park?"}

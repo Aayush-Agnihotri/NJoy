@@ -10,7 +10,7 @@ const Atlantic = () => {
         stars={5} 
 
         mapLink={"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d197381.89253333746!2d-74.5925653778518!3d39.3767927338931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0dd576e5cc721%3A0x4a6fcb43e9675262!2sAtlantic%20City%2C%20NJ!5e0!3m2!1sen!2sus!4v1646341247927!5m2!1sen!2sus"} 
-        pnumb={"(888) AC VISIT"} 
+        pnumb={"(888) AC-VISIT"} 
 
         address={"1301 Bacharach Blvd, Atlantic City, NJ 08401"} 
 
