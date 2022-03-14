@@ -250,7 +250,7 @@ const Template = (props) => {
             <div className="column2">
             <div className="card">
               <div className="container">
-                <img id="img1" src={gimg1} onClick={() => {
+                <img className="leftimg" id="img1" src={gimg1} onClick={() => {
                     console.log("hello");
                     var modal = document.getElementById("myModal");
                     var modalImg = document.getElementById("img01");
@@ -261,7 +261,7 @@ const Template = (props) => {
             </div>
             <div className="card">
               <div className="container">
-                <img id="img2" src={gimg2} onClick={() => {
+                <img className="leftimg" id="img2" src={gimg2} onClick={() => {
                   var modal = document.getElementById("myModal");       
                   var modalImg = document.getElementById("img01");
                   modal.style.display = "block";
@@ -271,7 +271,7 @@ const Template = (props) => {
             </div>
             <div className="card">
               <div className="container">
-                <img id="img3" src={gimg3} onClick={() => {
+                <img className="leftimg" id="img3" src={gimg3} onClick={() => {
                   var modal = document.getElementById("myModal");       
                   var modalImg = document.getElementById("img01");
                   modal.style.display = "block";
