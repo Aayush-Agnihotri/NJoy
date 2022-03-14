@@ -1,4 +1,2 @@
-Refresh page upon Link click
 Home Page
 Princeton.js file
-Comments

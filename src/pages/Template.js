@@ -5,7 +5,7 @@
 import React, { useState } from "react";
 import './Template.css';
 import ReactStars from "react-rating-stars-component";
-import Reviews from "../components/Reviews";
+import Reviews from "../components/Reviews/Reviews";
 import Heart from "react-animated-heart";
 
 //Pictures
@@ -241,7 +241,7 @@ const Template = (props) => {
           </div>
           <hr></hr>
           <h3>Reviews</h3>
-          <Reviews />
+          <Reviews review_num={props.place_num} />
         </div>
 
         <div className="column right">
