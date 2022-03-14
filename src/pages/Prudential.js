@@ -9,7 +9,7 @@ const Prudential = () => {
         place_num={5}
         stars={4}
         mapLink={"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12093.17653729907!2d-74.1797992111059!3d40.733552930562865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c253829a70f1d3%3A0x4d3efa6b5652a5ac!2sPrudential%20Center!5e0!3m2!1sen!2sus!4v1646341324708!5m2!1sen!2sus"}
-        pnumb={"973-757-6000"}
+        pnumb={"(973) 757 6000"}
         address={"25 Lafayette St, Newark, NJ 07102"}
         hours={"Mon to Fri 11am to 6pm, Closed on Saturday & Sunday (with the exception of any event, and the box office will open at 11am)"}
         website={"https://prucenter.com/"}

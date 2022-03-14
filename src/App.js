@@ -19,7 +19,7 @@ import Park from "./pages/Park";
 import Liberty from "./pages/Liberty";
 import Gardens from "./pages/Gardens";
 import Mall from "./pages/Mall";
-// import Princeton from "./pages/Princeton";
+import Princeton from "./pages/Princeton";
 
 //Components
 import Navbar from "./components/Navbar/Navbar";
@@ -46,7 +46,7 @@ function App() {
           <Route path="/liberty" element={<Liberty />} />
           <Route path="/gardens" element={<Gardens />} />
           <Route path="/mall" element={<Mall />} />
-          {/* <Route path="/princeton" element={<Princeton />} /> */}
+          <Route path="/princeton" element={<Princeton />} />
         </Routes>
         <Footer />
       </BrowserRouter>

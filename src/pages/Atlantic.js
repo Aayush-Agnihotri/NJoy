@@ -10,12 +10,12 @@ const Atlantic = () => {
         stars={5} 
 
         mapLink={"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d197381.89253333746!2d-74.5925653778518!3d39.3767927338931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0dd576e5cc721%3A0x4a6fcb43e9675262!2sAtlantic%20City%2C%20NJ!5e0!3m2!1sen!2sus!4v1646341247927!5m2!1sen!2sus"} 
-        pnumb={"1-888-AC-VISIT"} 
+        pnumb={"(888) AC VISIT"} 
 
         address={"1301 Bacharach Blvd, Atlantic City, NJ 08401"} 
 
-        hours={"To check the hours, please visit this link (https://www.atlanticcitynj.com/explore/happyhours.aspx)."}
-         website={"https://www.atlanticcitynj.com/"}
+        hours={"Open 24/7"}
+         website={"https://www.atlantic citynj.com/"}
 
           faq1q={"When was the first casino built in Atlantic City?"}
           
@@ -37,9 +37,9 @@ const Atlantic = () => {
 
            about={"Atlantic City is a city close to the east coast of the Atlantic Ocean at New Jersey. It was founded during May 1, 1854. It was incorpoarated by the portions of Egg Harbor Township and Galloway Township. There are so many casinos in Atlantic City. This city is located on Absecon Island and borders Absecon, Brigantine, Pleasantville, Ventor City, Egg Harbor Township, and the Atlantic Ocean. This city is known for casinos, boardwalk, and beaches. During 1921, Atlantic City has been the home of the Miss America pageant."} 
 
-           thingstoknow={"1. The parking lots are expensive  2. Kids are not allowed to be at the casinos."} 
+           thingstoknow={"Kids are not allowed to be at the casinos. The parking lots are expensive."} 
 
-           covid={"Atlantic City is taking a responsible approach to safety-protocols. Atlantic City resorts and businesses are now operating at 100% capacity and many restrictions have been lifted. The use of masks are no longer required, but we encourage anyone who is not yet fully vaccinated to continue to wear a mask indoors or where you cannot social distance. For more information, please go this link (https://www.atlanticcitynj.com/media/travel-advisory/)."} 
+           covid={"Atlantic City is taking a responsible approach to safety-protocols. Atlantic City resorts and businesses are now operating at 100% capacity and many restrictions have been lifted. The use of masks are no longer required, but we encourage anyone who is not yet fully vaccinated to continue to wear a mask indoors or where you cannot social distance."} 
 
            addInfo={"During September 2020, Tripadvisor named Atlantic City as one of the top 10 travel destinations in the USA. Atlantic City inspired the U.S version of the bard game Monopoly."} 
            />
