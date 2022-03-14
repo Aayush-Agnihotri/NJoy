@@ -2,7 +2,7 @@
   background: #242526;
   width: 200px;
   position: absolute;
-  z-index: 1;
+  z-index: 3;
   top: 80px;
   list-style: none;
   text-align: center;
