@@ -3,6 +3,9 @@ import { AuthContext } from "../context/auth";
 import { Link } from "react-router-dom";
 
 const Contact = () => {
+
+  window.scrollTo(0, 0);
+
   const { user } = useContext(AuthContext);
   
   const handleButtonClick = (event) => {

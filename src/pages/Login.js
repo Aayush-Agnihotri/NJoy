@@ -6,6 +6,9 @@ import { setDoc, doc } from "firebase/firestore";
 import { FirebaseError } from 'firebase/app';
 
 const Login = () => {
+
+  window.scrollTo(0, 0);
+
   const [data, setData] = useState({
     email: "",
     password: "",

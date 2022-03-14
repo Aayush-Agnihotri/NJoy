@@ -2,6 +2,7 @@ import React from 'react'
 import Template from "./Template"
 
 const Seaside = () => {
+
   return (
     <>
         <Template

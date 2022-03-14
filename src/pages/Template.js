@@ -79,6 +79,8 @@ import p10gimg3 from "../images/Princeton/PrincetonGallery3.jpg"
 
 const Template = (props) => {
 
+  window.scrollTo(0, 0);
+
   const [isClick, setClick] = useState(false);
   
   let himg;
