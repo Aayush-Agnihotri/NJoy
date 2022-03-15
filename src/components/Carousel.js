@@ -10,7 +10,7 @@ const Carousel1 = () => (
     </div>
     <div>
       <img alt="2" src={require("../images/home/City.jpg")} />
-      <p className="legend">Atlantic City features activites for all ages, including amusment park rides, beaches, and casinos.</p>
+      <p className="legend">Atlantic City features activites for all ages, including amusement park rides, beaches, and casinos.</p>
     </div>
     <div>
       <img alt="3" src={require("../images/home/Manor.jpg")} />
