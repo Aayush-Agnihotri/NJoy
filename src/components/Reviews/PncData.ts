@@ -5,7 +5,7 @@ export const PncData = [
         'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
       createdAt: new Date(1640297561680),
       fullName: 'Alexander Garcia ✔',
-      text: 'The Christmas light show is nice for a Quick drive around with the family, kids love it, if you buy one ticket on Tuesday you get two for Tuesday and can go around twice. There is lots of lights and shapes, there is a light tunnel and a small coffee shop too.',
+      text: 'The Christmas light show is nice for a quick drive around with the family, kids love it, if you buy one ticket on Tuesday you get two for Tuesday and can go around twice. There is lots of lights and shapes, there is a light tunnel and a small coffee shop too.',
     },
     {
       authorUrl: '',
