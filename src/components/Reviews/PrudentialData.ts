@@ -19,7 +19,7 @@ export const PrudentialData = [
       authorUrl: '',
       avatarUrl:
         'https://upload.wikimedia.org/wikipedia/commons/f/fb/Anthro_vixen_colored.jpg',
-      createdAt: new Date(16000900000000),
+      createdAt: new Date(1600090000000),
       fullName: 'Georgia Bridgers',
       text: 'The furry convention was beyond my expectations!',
     },
