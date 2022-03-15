@@ -2,25 +2,25 @@ export const MallData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
-      createdAt: new Date(1640297561680),
-      fullName: 'Noah Johnson ✔',
-      text: 'Mall',
+        'https://image.api.playstation.com/vulcan/img/rnd/202010/2716/EN4RmIEX4nyQfWv6Vzi2eQ4g.png',
+      createdAt: new Date(1615816767000),
+      fullName: 'John Williams',
+      text: 'There are many activities to choose from!',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://campussafetyconference.com/wp-content/uploads/2020/08/iStock-476085198.jpg',
-      createdAt: new Date(1641197561680),
-      fullName: 'Liam Anderson',
-      text: 'This place sucks! I tripped and fell on the boardwalk.',
+        'https://i.pinimg.com/originals/75/cf/0e/75cf0e7bf32afcf8fc4271a66682e94d.jpg',
+      createdAt: new Date(1628258367000),
+      fullName: 'Charlotte Miller',
+      text: 'The shopping and dining experience is five star!',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://previews.123rf.com/images/meysye/meysye1904/meysye190400002/121250278-female-silhoutte-avatar-default-avatar-profile-picture-photo-placeholder.jpg',
-      createdAt: new Date(1642197561680),
-      fullName: 'Olivia Smith ✔',
-      text: 'Absolutely love this place!',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebKrxTtWsfM4B_U6mSrQFZVPmGCAidzSa4Q&usqp=CAU',
+      createdAt: new Date(1644155967000),
+      fullName: 'Noah Anderson',
+      text: 'American Dream Mall is a must come!',
     },
   ];
