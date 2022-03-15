@@ -2,25 +2,25 @@ export const GardensData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
-      createdAt: new Date(1660297561680),
+        'https://preview.redd.it/v0caqchbtn741.jpg?auto=webp&s=c5d05662a039c031f50032e22a7c77dfcf1bfddc',
+      createdAt: new Date(1654488000000),
       fullName: 'Henry Meditz ✔',
       text: 'The Botanical Gardens are awesome! I absolutely loved it here and enjoyed going here with my family.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://campussafetyconference.com/wp-content/uploads/2020/08/iStock-476085198.jpg',
-      createdAt: new Date(1671197561680),
-      fullName: 'Noah Weinberg',
+        'https://media.vanityfair.com/photos/5c0d9391ea5c1607c3a6dd07/9:16/w_621,h_1104,c_limit/t-Ben-Shapiro.jpg',
+      createdAt: new Date(1655265600000),
+      fullName: 'Ben Shapiro',
       text: 'This place sucks! I hated the flowers!',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://previews.123rf.com/images/meysye/meysye1904/meysye190400002/121250278-female-silhoutte-avatar-default-avatar-profile-picture-photo-placeholder.jpg',
-      createdAt: new Date(167797561680),
+        'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80',
+      createdAt: new Date(1659499200000),
       fullName: 'Harenda Greg ✔',
-      text: 'Very Beautiful Park and good place to hangout with Family. It has limited parking.',
+      text: 'Very beautiful park and good place to hangout with family. It has limited parking.',
     },
   ];
