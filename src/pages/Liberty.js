@@ -18,8 +18,8 @@ const Liberty = () => {
          h1={"Minecraft: The Exhibition (New!)"} 
          h2={"Infinity Climber"} 
          h3={"Jennifer Chalsty Planetarium"} 
-         about={""} 
-         thingstoknow={""} 
+         about={"Liberty Science Center is a learning and informaational center that strives to allow guests to expand on their scientific knowledge. The Science Center houses 12 museum exhibition halls, a live animal collection with 110 species, giant aquariums, a 3D theater, live simulcast surgeries, hurricane- and tornado-force wind simulators, K-12 classrooms and labs, teacher-development programs, and the Western Hemisphere's biggest planetarium—the Jennifer Chalsty Planetarium and LSC Giant Dome Theater. More than 750,000 students, teachers, and parents visit Liberty Science Center each year, and tens of thousands more participate in the Center's off-site and online programs."} 
+         thingstoknow={"Liberty Science Center's mission is to inspire the next generation of scientists and engineers and excite learners of all ages about the power, promise, and pure fun of science and technology. with new exhibits coming every year, with informational knowledge to share."} 
          covid={""} 
          addInfo={""} />
     </>
