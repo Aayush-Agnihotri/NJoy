@@ -2,25 +2,25 @@ export const PrudentialData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
-      createdAt: new Date(1640297561680),
-      fullName: 'Noah Johnson ✔',
-      text: 'Prudential',
+        'https://mir-s3-cdn-cf.behance.net/project_modules/1400/2d686878402297.5ca6085aa8e1d.jpg',
+      createdAt: new Date(164029720000),
+      fullName: 'Jamie Would ✔',
+      text: 'One time I saw a Devils game here... good time.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://campussafetyconference.com/wp-content/uploads/2020/08/iStock-476085198.jpg',
-      createdAt: new Date(1641197561680),
-      fullName: 'Liam Anderson',
-      text: 'This place sucks! I tripped and fell on the boardwalk.',
+        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeathbattlefanon.fandom.com%2Fwiki%2FCool_Cat&psig=AOvVaw38uezQKmIyGHUTqV3EdFhd&ust=1647456422892000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKifqMnjyPYCFQAAAAAdAAAAABAI',
+      createdAt: new Date(100000000000),
+      fullName: 'Donald Trobama',
+      text: 'The bathrooms were spick and span and finding parking was relatively easy. I seek to revisit shortly for the furry convention.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://previews.123rf.com/images/meysye/meysye1904/meysye190400002/121250278-female-silhoutte-avatar-default-avatar-profile-picture-photo-placeholder.jpg',
-      createdAt: new Date(1642197561680),
-      fullName: 'Olivia Smith ✔',
-      text: 'Absolutely love this place!',
+        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFurry_fandom&psig=AOvVaw3baSDV4ywdxBMTdHcALYAM&ust=1647456501857000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj97-7jyPYCFQAAAAAdAAAAABAJ',
+      createdAt: new Date(100006000000),
+      fullName: 'Georgia Bridgers',
+      text: 'The furry convention was beyond my expectations!',
     },
   ];
