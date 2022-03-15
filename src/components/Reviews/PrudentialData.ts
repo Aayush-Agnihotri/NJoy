@@ -10,7 +10,7 @@ export const PrudentialData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeathbattlefanon.fandom.com%2Fwiki%2FCool_Cat&psig=AOvVaw38uezQKmIyGHUTqV3EdFhd&ust=1647456422892000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKifqMnjyPYCFQAAAAAdAAAAABAI',
+        'https://live-production.wcms.abc-cdn.net.au/eaebae2a6ed46cc8f5cc89a0df3a36f8?impolicy=wcms_crop_resize&cropH=1388&cropW=1046&xPos=874&yPos=557&width=862&height=1149',
       createdAt: new Date(100000000000),
       fullName: 'Donald Trobama',
       text: 'The bathrooms were spick and span and finding parking was relatively easy. I seek to revisit shortly for the furry convention.',
@@ -18,7 +18,7 @@ export const PrudentialData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFurry_fandom&psig=AOvVaw3baSDV4ywdxBMTdHcALYAM&ust=1647456501857000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj97-7jyPYCFQAAAAAdAAAAABAJ',
+        'https://upload.wikimedia.org/wikipedia/commons/f/fb/Anthro_vixen_colored.jpg',
       createdAt: new Date(100006000000),
       fullName: 'Georgia Bridgers',
       text: 'The furry convention was beyond my expectations!',
