@@ -34,7 +34,7 @@ const Gallery = () => {
         </div>
 
         <div className="gallery">
-          <Link to='/Pnc'>
+          <Link to='/pnc'>
           <img style={{ height: "200px" }} src={require('../images/PNC/PncGallery3.jpeg')} />
             <div className='title'>PNC Bank Art Center</div>
             <div className="desc">The PNC Bank Arts Center is one of Americas premier amphitheaters located in Holmdel Township, NJ. From May to September you can catch the biggest and best events live.</div>
@@ -42,7 +42,7 @@ const Gallery = () => {
         </div>
 
         <div className="gallery">
-          <Link to='/Prudential'>
+          <Link to='/prudential'>
             <img style={{ height: "200px" }} src={require('../images/Prudential/PrudentialGallery3.jpeg')} />
             <div className='title'>Prudential Center</div>
             <div className="desc">Prudential Center is a multi-purpose indoor arena in the central business district of Newark, New Jersey, United States. It was designed by Populous and Morris Adjmi Architects.</div>
