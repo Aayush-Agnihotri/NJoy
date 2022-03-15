@@ -12,9 +12,9 @@ const Liberty = () => {
          address={"222 Jersey City Blvd, Jersey City, NJ 07305"} 
          hours={"Sun	10AM–5PM Mon CLOSED Tues CLOSED Wed CLOSED Thurs 10AM–4PM Fri 10AM–4PM Sat 10AM–5PM"} 
          website={"https://lsc.org/"} 
-         faq1q={""} faq1a={"FAQ #1 answer"} 
-         faq2q={"FAQ #2"} faq2a={"FAQ #2 answer"} 
-         faq3q={"FAQ #3"} faq3a={"FAQ #3 answer"} 
+         faq1q={"How much does parking cost?"} faq1a={"The parking lot is owned by the state of New Jersey and operated by a private company. The fee for cars and vans during the day is $7.00."} 
+         faq2q={"Are food and drinks allowed inside?"} faq2a={"Guests can purchase sandwiches, salads, pizza, chicken, drinks, snacks, and more in our cafe on the second floor. Outside food and beverages are not permitted."} 
+         faq3q={"What should I do if I arrive late?"} faq3a={"Guests arriving late for their reserved ticket time should check in at the Box Office upon arrival."} 
          h1={"Minecraft: The Exhibition (New!)"} 
          h2={"Infinity Climber"} 
          h3={"Jennifer Chalsty Planetarium"} 
