@@ -12,7 +12,6 @@ const Contact = () => {
     event.preventDefault();
     const elements = document.querySelectorAll("div.input_container");
     const elements2 = document.querySelectorAll("div.btn_container");
-    console.log(elements);
     elements[0].remove();
     elements[1].remove();
     elements[2].remove();

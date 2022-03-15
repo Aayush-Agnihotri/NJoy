@@ -40,7 +40,14 @@ const Register = () => {
           name,
           email,
         });
+        const elements = document.querySelectorAll("div.input_container");
+        const elements2 = document.querySelectorAll("div.btn_container");
+        elements[0].remove();
+        elements[1].remove();
+        elements[2].remove();
+        elements[3].remove();
         setData({name: '', email: '', password: '', error: null, loading: false, created: "Account created successfully!", rpassword: ''});
+        elements2[0].style.display = "none";
       } catch (err) {
           setData({ ...data, error: err.message, loading: false });
       }
