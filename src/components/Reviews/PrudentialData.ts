@@ -11,7 +11,7 @@ export const PrudentialData = [
       authorUrl: '',
       avatarUrl:
         'https://live-production.wcms.abc-cdn.net.au/eaebae2a6ed46cc8f5cc89a0df3a36f8?impolicy=wcms_crop_resize&cropH=1388&cropW=1046&xPos=874&yPos=557&width=862&height=1149',
-      createdAt: new Date(1000000000000),
+      createdAt: new Date(1600000000000),
       fullName: 'Donald Trobama',
       text: 'The bathrooms were spick and span and finding parking was relatively easy. I seek to revisit shortly for the furry convention.',
     },
@@ -19,7 +19,7 @@ export const PrudentialData = [
       authorUrl: '',
       avatarUrl:
         'https://upload.wikimedia.org/wikipedia/commons/f/fb/Anthro_vixen_colored.jpg',
-      createdAt: new Date(1000060000000),
+      createdAt: new Date(1000900000000),
       fullName: 'Georgia Bridgers',
       text: 'The furry convention was beyond my expectations!',
     },
