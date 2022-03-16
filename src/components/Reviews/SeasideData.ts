@@ -2,25 +2,25 @@ export const SeasideData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
-      createdAt: new Date(1640297561680),
-      fullName: 'Noah Johnson ✔',
-      text: 'Seaside',
+        'https://www.gardeningknowhow.com/wp-content/uploads/2019/09/flower-color-400x391.jpg',
+      createdAt: new Date(1610297561680),
+      fullName: 'Antonia Iadevaia ✔',
+      text: 'Ever since I was a kid, this has been the place to be. The rides and beach never get old!',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://campussafetyconference.com/wp-content/uploads/2020/08/iStock-476085198.jpg',
-      createdAt: new Date(1641197561680),
-      fullName: 'Liam Anderson',
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/2048px-Soccer_ball.svg.png',
+      createdAt: new Date(1631197561680),
+      fullName: 'Nicholas Davidson',
       text: 'This place sucks! I tripped and fell on the boardwalk.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://previews.123rf.com/images/meysye/meysye1904/meysye190400002/121250278-female-silhoutte-avatar-default-avatar-profile-picture-photo-placeholder.jpg',
-      createdAt: new Date(1642197561680),
-      fullName: 'Olivia Smith ✔',
-      text: 'Absolutely love this place!',
+        'https://media.npr.org/assets/img/2022/01/04/ap_862432864149-4d5ff9168210d99b12e590df1e831eafe0ab626f-s1100-c50.jpg',
+      createdAt: new Date(1652197561680),
+      fullName: 'Cady Heron',
+      text: 'The rides were so fun for the kids, and the boardwalk itself was just beautiful.',
     },
   ];
