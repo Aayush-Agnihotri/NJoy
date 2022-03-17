@@ -19,7 +19,7 @@ export const SeasideData = [
       authorUrl: '',
       avatarUrl:
         'https://media.npr.org/assets/img/2022/01/04/ap_862432864149-4d5ff9168210d99b12e590df1e831eafe0ab626f-s1100-c50.jpg',
-      createdAt: new Date(1652197561680),
+      createdAt: new Date(1642197561680),
       fullName: 'Cady Heron',
       text: 'The rides were so fun for the kids, and the boardwalk itself was just beautiful.',
     },
