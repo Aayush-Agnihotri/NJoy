@@ -20,8 +20,8 @@ const Liberty = () => {
          h3={"Jennifer Chalsty Planetarium"} 
          about={"Liberty Science Center is a learning and informaational center that strives to allow guests to expand on their scientific knowledge. The Science Center houses 12 museum exhibition halls, a live animal collection with 110 species, giant aquariums, a 3D theater, live simulcast surgeries, hurricane- and tornado-force wind simulators, K-12 classrooms and labs, teacher-development programs, and the Western Hemisphere's biggest planetarium—the Jennifer Chalsty Planetarium and LSC Giant Dome Theater. More than 750,000 students, teachers, and parents visit Liberty Science Center each year, and tens of thousands more participate in the Center's off-site and online programs."} 
          thingstoknow={"Liberty Science Center's mission is to inspire the next generation of scientists and engineers and excite learners of all ages about the power, promise, and pure fun of science and technology. with new exhibits coming every year, with informational knowledge to share."} 
-         covid={""} 
-         addInfo={""} />
+         covid={"We’re limiting total capacity to help guests maintain distance. We ask that you please purchase tickets online in advance, as many of our time slots and theater shows sell out fast. For everyone's safety, especially those too young to be vaccinated, guests must properly wear an approved mask. This policy applies to all guests ages 2 and over, regardless of vaccination status. Masks must fully cover the nose and mouth and secure under the chin."} 
+         addInfo={"We require proof of full COVID-19 vaccination for all visitors age 12 years and older. We also require a valid photo ID for all visitors age 18 years and older. "} />
     </>
   )
 }
