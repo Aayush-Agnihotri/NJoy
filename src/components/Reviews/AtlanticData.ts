@@ -2,25 +2,25 @@ export const AtlanticData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
-      createdAt: new Date(1640297561680),
-      fullName: 'Noah Johnson ✔',
-      text: 'Atlantic',
+        'https://ae01.alicdn.com/kf/HTB1R4LqhFkoBKNjSZFkq6z4tFXae/NEW-Diamond-Embroidery-Animals-Full-Square-Round-Drill-Diamond-Painting-Cat-Mosaic-Cross-Stitch-5D-DIY.jpg_640x640.jpg',
+      createdAt: new Date(1531281600000),
+      fullName: 'Eric Andrade ✔',
+      text: 'The Steel Pier is a great amusment park. I loved the foods in Steel Pier, and I enjoyed the rides.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://campussafetyconference.com/wp-content/uploads/2020/08/iStock-476085198.jpg',
+        'https://www.shareicon.net/data/512x512/2016/08/18/809170_user_512x512.png',
       createdAt: new Date(1641197561680),
-      fullName: 'Liam Anderson',
-      text: 'This place sucks! I tripped and fell on the boardwalk.',
+      fullName: 'Linda Douglas',
+      text: 'I had a good time to walk on the boardwalk to see the beaches, casinos, etc.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://previews.123rf.com/images/meysye/meysye1904/meysye190400002/121250278-female-silhoutte-avatar-default-avatar-profile-picture-photo-placeholder.jpg',
+        'https://www.pngitem.com/pimgs/m/397-3971698_panda-png-photo-kung-fu-panda-cute-transparent.png',
       createdAt: new Date(1642197561680),
-      fullName: 'Olivia Smith ✔',
-      text: 'Absolutely love this place!',
+      fullName: 'Craig Hamilton ✔',
+      text: 'I really like the beaches at Atlantic City because I enjoyed swimming at a clear water, I hanged out with my friends, and I loved the sight of the ocean and the city.',
     },
   ];
