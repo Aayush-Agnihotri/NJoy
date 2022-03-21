@@ -2,7 +2,8 @@ export const LibertyData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
+        'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vibrant-red-and-yellow-gazania-flower-royalty-free-image-594915222-1554736685.jpg',
+        
       createdAt: new Date(1640297561680),
       fullName: 'Noah Johnson ✔',
       text: 'Liberty',
