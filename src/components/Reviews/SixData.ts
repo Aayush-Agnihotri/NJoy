@@ -2,25 +2,25 @@ export const SixData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
+        'https://miro.medium.com/max/785/0*Ggt-XwliwAO6QURi.jpg',
       createdAt: new Date(1640297561680),
-      fullName: 'Noah Johnson ✔',
-      text: 'Six',
+      fullName: 'Ronald Wormald',
+      text: 'I like this place all year round staff have to be better with all people',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://campussafetyconference.com/wp-content/uploads/2020/08/iStock-476085198.jpg',
+        'https://qph.fs.quoracdn.net/main-qimg-ab45488a5f2a231287ab232486154ae0-lq',
       createdAt: new Date(1641197561680),
-      fullName: 'Liam Anderson',
-      text: 'This place sucks! I tripped and fell on the boardwalk.',
+      fullName: 'Darien Hooper',
+      text: 'Lots of great, fun rides to go on!',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://previews.123rf.com/images/meysye/meysye1904/meysye190400002/121250278-female-silhoutte-avatar-default-avatar-profile-picture-photo-placeholder.jpg',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-dEoAQd27B5t28LwRjulyjqhlSwqFz1Vjw&usqp=CAU',
       createdAt: new Date(1642197561680),
-      fullName: 'Olivia Smith ✔',
-      text: 'Absolutely love this place!',
+      fullName: 'Adelle Martins ✔',
+      text: 'No long lines, weather is great and the campers went home lol',
     },
   ];

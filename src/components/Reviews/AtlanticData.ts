@@ -2,25 +2,25 @@ export const AtlanticData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
+        'https://monoloop.com/wp-content/uploads/2017/08/photo-1511367461989-f85a21fda167.jpg',
       createdAt: new Date(1640297561680),
-      fullName: 'Noah Johnson ✔',
-      text: 'Atlantic',
+      fullName: 'Hal Welch ✔',
+      text: 'Even though it was cold was still fun walking in the Boardwalk. Can always duck into the next casino to warm up. Fun seeing the Miss America Pagent statues and all the shops.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://campussafetyconference.com/wp-content/uploads/2020/08/iStock-476085198.jpg',
+        'https://wpimg.pixelied.com/blog/wp-content/uploads/2021/06/15175913/Colors-in-Profile-Pictures.jpeg',
       createdAt: new Date(1641197561680),
-      fullName: 'Liam Anderson',
-      text: 'This place sucks! I tripped and fell on the boardwalk.',
+      fullName: 'Ashton Solomon',
+      text: 'Lof of resturants, shop, games, casinos beside the broadwalk. its about 3-4 kms boradwalk. anybody can easily spend 2-3 hours at this place.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://previews.123rf.com/images/meysye/meysye1904/meysye190400002/121250278-female-silhoutte-avatar-default-avatar-profile-picture-photo-placeholder.jpg',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwgu1A5zgPSvfE83nurkuzNEoXs9DMNr8Ww&usqp=CAU',
       createdAt: new Date(1642197561680),
-      fullName: 'Olivia Smith ✔',
-      text: 'Absolutely love this place!',
+      fullName: 'Michaela Marshall ✔',
+      text: ' It has food, entertainment, ferris wheel, a shuttle from one end to close to the other end and all the tourist shops you can imagine.',
     },
   ];

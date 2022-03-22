@@ -2,25 +2,25 @@ export const PrincetonData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://isobarscience.com/wp-content/uploads/2020/09/default-profile-picture1.jpg',
+        'https://images.unsplash.com/photo-1594751543129-6701ad444259?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMHByb2ZpbGV8ZW58MHx8MHx8&w=1000&q=80',
       createdAt: new Date(1640297561680),
-      fullName: 'Noah Johnson ✔',
-      text: 'Princeton',
+      fullName: 'Brenden Hail ✔',
+      text: 'Aesthetically, Princeton University has the most beautiful campus of the United States.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://campussafetyconference.com/wp-content/uploads/2020/08/iStock-476085198.jpg',
+        'https://wdrfree.com/public/blog/Cool-Profile-Picture-16.jpg',
       createdAt: new Date(1641197561680),
-      fullName: 'Liam Anderson',
-      text: 'This place sucks! I tripped and fell on the boardwalk.',
+      fullName: 'Amar Johnson',
+      text: 'It almost feels like having a connection with that history while you walk through this place.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://previews.123rf.com/images/meysye/meysye1904/meysye190400002/121250278-female-silhoutte-avatar-default-avatar-profile-picture-photo-placeholder.jpg',
+        'https://cdn.pixabay.com/photo/2015/01/06/16/14/woman-590490__340.jpg',
       createdAt: new Date(1642197561680),
-      fullName: 'Olivia Smith ✔',
-      text: 'Absolutely love this place!',
+      fullName: 'Cathy Mcneill ✔',
+      text: "It's beautiful! It's amazing to walk around the campus. It has a very Hogwarts magical vibe. The buildings, the built and everything about this place has a history.",
     },
   ];
