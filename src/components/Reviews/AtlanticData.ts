@@ -2,25 +2,25 @@ export const AtlanticData = [
     {
       authorUrl: '',
       avatarUrl:
-        'https://monoloop.com/wp-content/uploads/2017/08/photo-1511367461989-f85a21fda167.jpg',
-      createdAt: new Date(1640297561680),
-      fullName: 'Hal Welch ✔',
-      text: 'Even though it was cold was still fun walking in the Boardwalk. Can always duck into the next casino to warm up. Fun seeing the Miss America Pagent statues and all the shops.',
+        'https://ae01.alicdn.com/kf/HTB1R4LqhFkoBKNjSZFkq6z4tFXae/NEW-Diamond-Embroidery-Animals-Full-Square-Round-Drill-Diamond-Painting-Cat-Mosaic-Cross-Stitch-5D-DIY.jpg_640x640.jpg',
+      createdAt: new Date(1531281600000),
+      fullName: 'Eric Andrade ✔',
+      text: 'The Steel Pier is a great amusment park. I loved the foods in Steel Pier, and I enjoyed the rides.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://wpimg.pixelied.com/blog/wp-content/uploads/2021/06/15175913/Colors-in-Profile-Pictures.jpeg',
-      createdAt: new Date(1641197561680),
-      fullName: 'Ashton Solomon',
-      text: 'Lof of resturants, shop, games, casinos beside the broadwalk. its about 3-4 kms boradwalk. anybody can easily spend 2-3 hours at this place.',
+        'https://www.shareicon.net/data/512x512/2016/08/18/809170_user_512x512.png',
+      createdAt: new Date(1566446400000),
+      fullName: 'Linda Douglas',
+      text: 'I had a good time to walk on the boardwalk to see the beaches, casinos, etc.',
     },
     {
       authorUrl: '',
       avatarUrl:
-        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwgu1A5zgPSvfE83nurkuzNEoXs9DMNr8Ww&usqp=CAU',
-      createdAt: new Date(1642197561680),
-      fullName: 'Michaela Marshall ✔',
-      text: ' It has food, entertainment, ferris wheel, a shuttle from one end to close to the other end and all the tourist shops you can imagine.',
+        'https://www.pngitem.com/pimgs/m/397-3971698_panda-png-photo-kung-fu-panda-cute-transparent.png',
+      createdAt: new Date(1560312000000),
+      fullName: 'Craig Hamilton ✔',
+      text: 'I really like the beaches at Atlantic City because I enjoyed swimming at a clear water, I hanged out with my friends, and I loved the sight of the ocean and the city.',
     },
   ];
