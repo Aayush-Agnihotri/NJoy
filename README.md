@@ -12,10 +12,10 @@ NJoy is the go-to trip-advising app created for the Garden State, providing info
 
 ### Frameworks and Resources
 ##### Front-end
-NJoy's front-end was built in React, which serves content like reviews and ratings to the client by fetching data from the REST API. 
+NJoy's front-end was built in React, which serves content like reviews and ratings to the client by fetching data from the internal REST API. 
 
 ##### Back-end and Database
-NJoy's back-end was built using Firebase, which stored review and ratings information and pushed the information to the front-end when requested. Additionally, NJoy's user authentication system was built using Firebase.
+NJoy's back-end was built using Firebase, which stores review and ratings information and pushes the information to the front-end when requested. Additionally, NJoy's user authentication system was built using Firebase.
 
 ##### APIs
 NJoy uses its internal Firebase API to access data like reviews and ratings. To display locations on a map and get directions, NJoy accesses the Google Maps API.
